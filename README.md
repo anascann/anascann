@@ -13,4 +13,4 @@ Fun fact: Let's Meet over coffee and discuss history.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/anascann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/anas-khan-164346192//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/khannnass//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.anaskhan.me)  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/anascann&show_icons=true)![Profile views](https://gpvc.arturio.dev/https://github.com/anascann)  
+
